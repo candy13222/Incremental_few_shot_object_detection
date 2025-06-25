@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# VSCode settings
+.vscode/
+
+# Logs and outputs
+*.log
+*.out
+
+# Checkpoints, models, and results
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.npz
+*.npy
+*.pkl
+*.h5
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Custom folders
+out/
+result/
+train_json_detail_new/
+val_json_detail_new/
+train_json_our/
+train_json_voc/
+voc_val_json_detail/
+data/coco
+data/VOC
+clip_weights/
+
+# Misc
+*.tmp
+*.bak
+
+# Ignore test outputs
+test_output/

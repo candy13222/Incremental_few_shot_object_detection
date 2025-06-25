@@ -1,0 +1,5 @@
+pycocotools
+tqdm
+cython
+scipy
+openai-clip

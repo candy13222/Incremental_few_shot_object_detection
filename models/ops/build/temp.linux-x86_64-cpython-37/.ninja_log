@@ -1,0 +1,4 @@
+# ninja log v5
+0	4995	1726145649	/DATA3/flaya/iFSD/models/ops/build/temp.linux-x86_64-cpython-37/DATA3/flaya/iFSD/models/ops/src/cpu/ms_deform_attn_cpu.o	2daf67315b8971ce
+0	13859	1726145658	/DATA3/flaya/iFSD/models/ops/build/temp.linux-x86_64-cpython-37/DATA3/flaya/iFSD/models/ops/src/cuda/ms_deform_attn_cuda.o	fdbd96ca53f3b03e
+1	18601	1726145662	/DATA3/flaya/iFSD/models/ops/build/temp.linux-x86_64-cpython-37/DATA3/flaya/iFSD/models/ops/src/vision.o	b876bacd4a29bbbe
